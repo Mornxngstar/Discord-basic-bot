@@ -91,8 +91,4 @@ async def on_ready():
     await bot.change_presence(activity=discord.Streaming(name="Pornito",url='https://www.twitch.tv/diegojudio'))
     print("Ready to go.")
 
-<<<<<<< HEAD
-bot.run('OTg3MjMyMjg4NjQxMjY5ODIw.GnBq9e.2sBvKON6poU_nUFH2QT401IwKQvzWHqp51VtTE')
-=======
 bot.run('token')
->>>>>>> df088964fdd15dd6f81cab286308133d848fd94a
