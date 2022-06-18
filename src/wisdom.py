@@ -1,4 +1,4 @@
-phrases = [
+PHRASES = [
     "Hoyo es hoyo, aunque sea de pollo.",
 
     "Si la vida te da limones, los introduces en tu ano.",

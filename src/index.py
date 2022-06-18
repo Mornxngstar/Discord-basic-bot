@@ -9,7 +9,7 @@ from urllib import parse, request
 import random
 
 from jeer_list import diego, emilio, jojo, dani, josu, kris
-from wisdom import phrases
+from wisdom import PHRASES
 
 #-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -23,7 +23,7 @@ def select_swear(user):
 async def on_message(message):
     
     if ("dame" in message.content.lower() or "quiero" in message.content.lower()) and "consejo" in message.content.lower():
-        await message.channel.send(select_swear(phrases))
+        await message.channel.send(select_swear(PHRASES))
         await bot.process_commands(message)
 
     elif "secreto del dani" in message.content.lower():
@@ -91,4 +91,4 @@ async def on_ready():
     await bot.change_presence(activity=discord.Streaming(name="Pornito",url='https://www.twitch.tv/diegojudio'))
     print("Ready to go.")
 
-bot.run('OTg3MjMyMjg4NjQxMjY5ODIw.GoGbhH.sa4B7ctLpxVxxAShLbfSSRqp7WVDrAot-MGxxw')
+bot.run('OTg3MjMyMjg4NjQxMjY5ODIw.GnBq9e.2sBvKON6poU_nUFH2QT401IwKQvzWHqp51VtTE')
