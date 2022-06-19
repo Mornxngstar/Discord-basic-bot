@@ -21,6 +21,8 @@ PHRASES = [
 
     "Tus vacaciones deben ser como los niños de siria, debes volar a todas partes!",
 
-    "Ten empatia con las minorias ya que ellos sufren su condicion, tu deber como buen ciudadano es acabar con su sufrimiento."
+    "Ten empatia con las minorias ya que ellos sufren su condicion, tu deber como buen ciudadano es acabar con su sufrimiento.",
+    
+    "El idiota grita, el inteligente opina y el sabio se masturba."
 
 ]

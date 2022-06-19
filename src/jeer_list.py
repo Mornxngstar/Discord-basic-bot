@@ -15,7 +15,16 @@ jojo = [
     "Hitler",
     "enano rabioso",
     "cosa 2",
-    "30 cm"
+    "30 cm",
+    "Maraca qla",
+    "Enana",
+    "Vieja maraca",
+    "Mascotas comestibles",
+    "Enana rabiosa",
+    "Furra con complejo aleman",
+    "Nazi projudios",
+    "El oro sera del dani",
+    "Disfraz de tortuga"
     ]
 
 diego = [
@@ -54,4 +63,14 @@ kris = [
     "yo no soy maricon",
     "women",
     "telon"
+]
+
+wa = [
+    "virgen",
+    "guaton pasao a semen",
+    "diego dame a la niña",
+]
+
+cp = [
+    ""
 ]

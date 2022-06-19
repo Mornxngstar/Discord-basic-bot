@@ -8,7 +8,7 @@ from urllib import parse, request
 
 import random
 
-from jeer_list import diego, emilio, jojo, dani, josu, kris
+from jeer_list import diego, emilio, jojo, dani, josu, kris, wa
 from wisdom import PHRASES
 
 #-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
